@@ -1,3 +1,6 @@
 body{
-    background: #BDBDBD;
+    background:white;
+}
+.contacto{
+    border: solid 1px rgb(226, 226, 250);
 }
